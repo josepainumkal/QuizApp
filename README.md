@@ -4,6 +4,6 @@
   add any no of questions. Currently the app contains 50 questions)
 * Calculates the total score and shows the result at the end.
 
-#### Screenshots 4 ####
+#### Screenshots ####
 
 ![Alt text](quizapp.png?raw=true "Title")
